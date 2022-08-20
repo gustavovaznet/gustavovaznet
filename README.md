@@ -1,4 +1,4 @@
 - 👋 Hello,
-- 🙂 I’m Gustavo,
-- 💻 I’m currently developing javascript apps,
+- 🙂 I’m Gustavo!
+- 💻 I’m currently developing javascript apps.
 - 😄 Feel free to check it out!
