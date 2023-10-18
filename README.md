@@ -1,4 +1,3 @@
-- 👋 Hello,
-- 🙂 I’m Gustavo!
-- 💻 I’m currently developing javascript apps.
-- 😄 Feel free to check it out!
+- 👋 Hello! I’m Gustavo Vaz!
+- 💻 I’m into web application development and cybersecurity.
+- 😄 Feel free to check out my projects!!!
