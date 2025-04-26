@@ -1,3 +1,3 @@
-- 👋 Hello! I’m Gustavo Vaz!
-- 💻 I’m into web application development and cybersecurity.
-- 😄 Feel free to check out my projects!!!
+- 👋 Hello, I’m Gustavo Vaz!
+- 💻 I'm a web application developer with a strong interest in cybersecurity.
+- 😄 Feel free to explore my projects and reach out if you'd like to collaborate!
