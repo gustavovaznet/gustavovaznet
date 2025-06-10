@@ -1,3 +1,3 @@
 - 👋 Hello, I’m Gustavo Vaz!
-- 💻 I'm a project manager with a strong interest in web development.
+- 💻 I'm a project manager with a strong interest in web development and cybersecurity.
 - 😄 Feel free to explore my projects and reach out if you'd like to collaborate!
